@@ -45,31 +45,64 @@ I’ve contributed to **large-scale digital banking platforms** for **Al Rajhi B
 
 ### 👨‍💻 Languages
 
-`Java` · `Kotlin` · `Python` · `JavaScript` · `C` · `PHP`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+---
 
 ### ⚙️ Backend & Frameworks
 
-`Spring Boot` · `Spring Security` · `REST APIs` · `Microservices`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-blue?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=flat)
+
+---
 
 ### 🔐 Security
 
-`JWT` · `OAuth2` · `Basic Auth` · `Spring Security`
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=flat)
+![Basic Auth](https://img.shields.io/badge/Basic_Auth-Authentication-lightgrey?style=flat)
+
+---
 
 ### 📦 Databases
 
-`PostgreSQL` · `Oracle` · `MySQL` · `MongoDB`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
 
 ### 🔄 Messaging
 
-`Kafka (AWS MSK)`
+![Kafka](https://img.shields.io/badge/Kafka-Apache-black?style=flat&logo=apachekafka&logoColor=white)
+![AWS MSK](https://img.shields.io/badge/AWS_MSK-Kafka-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+---
 
 ### 🚀 DevOps & Cloud
 
-`AWS` · `Docker` · `GitHub Actions` · `ArgoCD`
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat&logo=argo&logoColor=white)
+
+---
 
 ### 🧪 Testing & Design
 
-`Unit Testing` · `Mocking` · `SOLID` · `OOP` · `UML`
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-Testing-blue?style=flat)
+![Mocking](https://img.shields.io/badge/Mocking-Tests-orange?style=flat)
+![SOLID](https://img.shields.io/badge/SOLID-Design-success?style=flat)
+![OOP](https://img.shields.io/badge/OOP-Design-blueviolet?style=flat)
+![UML](https://img.shields.io/badge/UML-Modeling-lightgrey?style=flat)
 
 ---
 
