@@ -83,12 +83,6 @@ I’ve contributed to **large-scale digital banking platforms** for **Al Rajhi B
 
 ---
 
-## 📈 GitHub Stats (Optional)
-
-![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adel1250&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/adel-ashraf-9b18a4221](https://linkedin.com/in/adel-ashraf-9b18a4221)
