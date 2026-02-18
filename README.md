@@ -106,16 +106,6 @@ I’ve contributed to **large-scale digital banking platforms** for **Al Rajhi B
 
 ---
 
-## 📚 Continuous Learning
-
-- Spring Boot 3 & Spring Framework 6
-- High-Performance Databases
-- Algorithms & Data Structures
-- Cloud & DevOps Fundamentals
-- Generative AI & Developer Productivity
-
----
-
 ## 🤝 Let’s Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/adel-ashraf-9b18a4221](https://linkedin.com/in/adel-ashraf-9b18a4221)
