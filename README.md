@@ -26,7 +26,7 @@ I’ve contributed to **large-scale digital banking platforms** for **Al Rajhi B
 - Designed and stabilized **payment flows** (auto-debit, inquiries, transactions)
 - Integrated **AWS MSK (Kafka)** for asynchronous communication
 - Contributed to **CI/CD pipelines** using GitHub Actions & AWS
-- Provided **on-site production support in Kuala Lumpur**
+- Provided **on-site support in Kuala Lumpur**
 
 ### 🏦 Telemoney – ANB Bank
 
